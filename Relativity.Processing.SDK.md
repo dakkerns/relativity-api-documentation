@@ -4,6 +4,24 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
+## 13.29.230
+
+### Release Notes
+
+* Add CreateExpressionFilterAsync and other filter related endpoints to V2 IProcessingFilterManager
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+25.11 | Latest 25.11
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.29.230 | Latest 13.29
+
 ## 13.29.150
 
 ### Release Notes
